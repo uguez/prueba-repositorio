@@ -1,1 +1,10 @@
+* {
+    margin: 0;
+    background-color: black;
+    color: #f2f2f2;
+}
 
+body {
+    display: flex;
+    justify-content: center;
+}
