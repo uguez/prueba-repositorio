@@ -5,6 +5,20 @@
 }
 
 body {
+
+}
+
+header {
+    width: 100%;
+    margin: auto;
+    height: 200px;
+}
+
+.container {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+}
+
+.container h2 {
+
 }
